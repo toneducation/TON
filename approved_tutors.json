@@ -1,0 +1,22 @@
+{
+  "teacher_1": {
+    "name": "Sarah Johnson",
+    "subject": "English",
+    "experience": "3 Years",
+    "price": "2 TON",
+    "wallet": "UQA3iD3eId0aXX4mm82bTO6kozmZJaz42tsNh1ZoAIuQUfsF",
+    "bio": "Certified English teacher with Cambridge certification",
+    "rating": 4.8,
+    "reviews": 45
+  },
+  "teacher_2": {
+    "name": "Maria Rodriguez",
+    "subject": "Mathematics",
+    "experience": "5 Years",
+    "price": "1.5 TON",
+    "wallet": "UQA3iD3eId0aXX4mm82bTO6kozmZJaz42tsNh1ZoAIuQUfsF",
+    "bio": "Advanced Mathematics specialist with PhD",
+    "rating": 4.9,
+    "reviews": 67
+  }
+}
